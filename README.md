@@ -1,7 +1,7 @@
 # Machine-Learning
 Assignments and project of ml course
 
-## **HW1**:
+## **HW1**(.ipynb files should be uploaded both in folder and readme):
 
 * ### ***Heart_Disease_Prediction***
     In this assignment, I worked on [*Heart_Disease*](https://www.kaggle.com/johnsmith88/heart-disease-dataset) dataset.
