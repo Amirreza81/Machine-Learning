@@ -25,6 +25,6 @@ Assignments and project of ml course
     <br _> For reading the details quickly you can see [this pdf](https://github.com/Amirreza81/Machine-Learning/blob/main/HW1/MLE_MAP.pdf).<br _>
     For reading the notebook you can see this [link](https://github.com/Amirreza81/Machine-Learning/blob/main/HW1/MLE_MAP.ipynb).
 
-## **HW1**:
+## **HW2**:
 
 will be updated asap
