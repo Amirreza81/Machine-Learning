@@ -27,4 +27,4 @@ Assignments and project of ml course
 
 ## **HW2**:
 
-will be updated asap
+will be updated asap about regularization and polynomial regression
