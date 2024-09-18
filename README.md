@@ -1,5 +1,5 @@
-# Machine-Learning
-Assignments and project of ml course
+# Machine Learning - Sharif University of Technology
+Solutions for assignments and project of ml course at Sharif university of Technology (CE-477)
 
 ## **HW1**:
 
