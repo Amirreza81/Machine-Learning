@@ -27,4 +27,39 @@ Solutions for assignments and project of ml course at Sharif university of Techn
 
 ## **HW2**:
 
-will be updated asap about regularization and polynomial regression
+* ### ***Polynomial_Regression***
+  This exercise explores polynomial regression, a form of regression analysis where the relationship
+  between the independent variable ( X ) and the dependent variable ( y ) is modeled as an ( n )th
+  degree polynomial. We will create a synthetic dataset, train models with varying degrees of
+  polynomials, and evaluate their performance on different test sets.<br _>
+  
+  *Steps*:
+  > * Create a synthetic dataset
+  > * Splitting the Dataset
+  > * Polynomial Regression Training
+  > * Model Evaluation
+  > * Plotting Model Scores
+
+  For reading the details quickly you can see [this pdf](https://github.com/Amirreza81/Machine-Learning/blob/main/HW2/Polynomial_Regression.pdf).<br _>
+  For reading the notebook you can see this [link](https://github.com/Amirreza81/Machine-Learning/blob/main/HW2/Polynomial_Regression.ipynb).
+  <br _>
+
+  * ### ***Regularization***
+    In this assignment, we will work with a dataset that includes The Boston housing data was collected in 1978 and each of the 506 entries
+    represent aggregated data about 14 features for homes from various suburbs in Boston, Massachusetts. The target variable of interest in this
+    dataset is the median value of owner-occupied homes (MEDV), which serves as a proxy for the house prices. First, we will start by fitting a
+    basic regression model using scikit-learn (sklearn) to establish a baseline for comparison. This basic regression model will serve as a reference
+    point for evaluating the performance of more sophisticated models incorporating regularization techniques.
+    Furthermore, we will apply L1 (Lasso) and L2 (Ridge) regularization techniques to refine our predictions and evaluate the impact of these
+    methods on the accuracy of our results. Regularization is a technique used to prevent overfitting by adding a penalty term to the loss function,
+    encouraging simpler models with smaller coefficients. L1 regularization (Lasso) encourages sparsity by penalizing the absolute values of
+    coefficients, while L2 regularization (Ridge) penalizes the square of coefficients. By incorporating these regularization techniques, we aim to
+    improve the generalization performance of our regression models and obtain more robust predictions of house prices in the Boston area.<br _>
+
+    *Topics*:
+    > * L1 (Lasso) regularization
+    > * L2 (Ridge) regularization
+
+    For reading the details quickly you can see [this pdf](https://github.com/Amirreza81/Machine-Learning/blob/main/HW2/Regularization.pdf).<br _>
+    For reading the notebook you can see this [link](https://github.com/Amirreza81/Machine-Learning/blob/main/HW2/Regularization.ipynb).
+    <br _>
