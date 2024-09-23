@@ -44,7 +44,7 @@ Solutions for assignments and project of ml course at Sharif university of Techn
   For reading the notebook you can see this [link](https://github.com/Amirreza81/Machine-Learning/blob/main/HW2/Polynomial_Regression.ipynb).
   <br _>
 
-  * ### ***Regularization***
+* ### ***Regularization***
     In this assignment, we will work with a dataset that includes The Boston housing data was collected in 1978 and each of the 506 entries
     represent aggregated data about 14 features for homes from various suburbs in Boston, Massachusetts. The target variable of interest in this
     dataset is the median value of owner-occupied homes (MEDV), which serves as a proxy for the house prices. First, we will start by fitting a
