@@ -1,9 +1,8 @@
 # Machine Learning - Sharif University of Technology
 Solutions for assignments and project of ml course at Sharif university of Technology (CE-477)
 
-## **HW1**:
 
-* ### ***Heart_Disease_Prediction***
+* ## ***Heart_Disease_Prediction***
     In this assignment, I worked on [*Heart_Disease*](https://www.kaggle.com/johnsmith88/heart-disease-dataset) dataset.
     Topics I used:
     > * EDA
@@ -20,14 +19,13 @@ Solutions for assignments and project of ml course at Sharif university of Techn
     For reading the notebook you can see this [link](https://github.com/Amirreza81/Machine-Learning/blob/main/HW1/Heart_Disease_Prediction.ipynb).
     <br _>
 
-* ### ***MLE_MAP***
+* ## ***MLE_MAP***
     This exercise will help you gain a deeper understanding of, and insights into, Maximum Likelihood Estimation (*MLE*) and Maximum A Posteriori (*MAP*) estimation.
     <br _> For reading the details quickly you can see [this pdf](https://github.com/Amirreza81/Machine-Learning/blob/main/HW1/MLE_MAP.pdf).<br _>
     For reading the notebook you can see this [link](https://github.com/Amirreza81/Machine-Learning/blob/main/HW1/MLE_MAP.ipynb).
 
-## **HW2**:
 
-* ### ***Polynomial_Regression***
+* ## ***Polynomial_Regression***
   This exercise explores polynomial regression, a form of regression analysis where the relationship
   between the independent variable ( X ) and the dependent variable ( y ) is modeled as an ( n )th
   degree polynomial. We will create a synthetic dataset, train models with varying degrees of
@@ -44,7 +42,7 @@ Solutions for assignments and project of ml course at Sharif university of Techn
   For reading the notebook you can see this [link](https://github.com/Amirreza81/Machine-Learning/blob/main/HW2/Polynomial_Regression.ipynb).
   <br _>
 
-* ### ***Regularization***
+* ## ***Regularization***
     In this assignment, we will work with a dataset that includes The Boston housing data was collected in 1978 and each of the 506 entries
     represent aggregated data about 14 features for homes from various suburbs in Boston, Massachusetts. First, we will start by fitting a
     basic regression model using scikit-learn (sklearn) to establish a baseline for comparison. This basic regression model will serve as a reference
