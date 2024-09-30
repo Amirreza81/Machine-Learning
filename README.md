@@ -15,14 +15,14 @@ Solutions for assignments and project of ml course at Sharif university of Techn
     > * Recall_score
     > * Precision_score
 
-    For reading the details quickly you can see [this pdf](https://github.com/Amirreza81/Machine-Learning/blob/main/HW1/Heart_Disease_Prediction.pdf).<br _>
-    For reading the notebook you can see this [link](https://github.com/Amirreza81/Machine-Learning/blob/main/HW1/Heart_Disease_Prediction.ipynb).
+    For reading the details quickly you can see [this pdf](https://github.com/Amirreza81/Machine-Learning/blob/main/Heart-Disease-Prediction/Heart_Disease_Prediction.pdf).<br _>
+    For reading the notebook you can see this [link](https://github.com/Amirreza81/Machine-Learning/blob/main/Heart-Disease-Prediction/Heart_Disease_Prediction.ipynb).
     <br _>
 
 * ## ***MLE_MAP***
     This exercise will help you gain a deeper understanding of, and insights into, Maximum Likelihood Estimation (*MLE*) and Maximum A Posteriori (*MAP*) estimation.
-    <br _> For reading the details quickly you can see [this pdf](https://github.com/Amirreza81/Machine-Learning/blob/main/HW1/MLE_MAP.pdf).<br _>
-    For reading the notebook you can see this [link](https://github.com/Amirreza81/Machine-Learning/blob/main/HW1/MLE_MAP.ipynb).
+    <br _> For reading the details quickly you can see [this pdf](https://github.com/Amirreza81/Machine-Learning/blob/main/MLE-MAP/MLE_MAP.pdf).<br _>
+    For reading the notebook you can see this [link](https://github.com/Amirreza81/Machine-Learning/blob/main/MLE-MAP/MLE_MAP.ipynb).
 
 
 * ## ***Polynomial_Regression***
@@ -38,8 +38,8 @@ Solutions for assignments and project of ml course at Sharif university of Techn
   > * Model Evaluation
   > * Plotting Model Scores
 
-  For reading the details quickly you can see [this pdf](https://github.com/Amirreza81/Machine-Learning/blob/main/HW2/Polynomial_Regression.pdf).<br _>
-  For reading the notebook you can see this [link](https://github.com/Amirreza81/Machine-Learning/blob/main/HW2/Polynomial_Regression.ipynb).
+  For reading the details quickly you can see [this pdf](https://github.com/Amirreza81/Machine-Learning/blob/main/Polynomial-Regression/Polynomial_Regression.pdf).<br _>
+  For reading the notebook you can see this [link](https://github.com/Amirreza81/Machine-Learning/blob/main/Polynomial-Regression/Polynomial_Regression.ipynb).
   <br _>
 
 * ## ***Regularization***
@@ -54,6 +54,6 @@ Solutions for assignments and project of ml course at Sharif university of Techn
     > * L1 (Lasso) regularization
     > * L2 (Ridge) regularization
 
-    For reading the details quickly you can see [this pdf](https://github.com/Amirreza81/Machine-Learning/blob/main/HW2/Regularization.pdf).<br _>
-    For reading the notebook you can see this [link](https://github.com/Amirreza81/Machine-Learning/blob/main/HW2/Regularization.ipynb).
+    For reading the details quickly you can see [this pdf](https://github.com/Amirreza81/Machine-Learning/blob/main/Regularization/Regularization.pdf).<br _>
+    For reading the notebook you can see this [link](https://github.com/Amirreza81/Machine-Learning/blob/main/Regularization/Regularization.ipynb).
     <br _>
