@@ -1,7 +1,13 @@
 # Machine Learning - Sharif University of Technology
 Solutions for assignments and project of ml course at Sharif university of Technology (CE-477)
 
+# Table of Contents
+1. [Heart_Disease_Prediction](#Heart_Disease_Prediction)
+2. [MLE_MAP](#MLE_MAP)
+3. [Polynomial_Regression](#Polynomial_Regression)
+4. [Regularization](#Regularization)
 
+   
 * ## ***Heart_Disease_Prediction***
     In this assignment, I worked on [*Heart_Disease*](https://www.kaggle.com/johnsmith88/heart-disease-dataset) dataset.
     Topics I used:
