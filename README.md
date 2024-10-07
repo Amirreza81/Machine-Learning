@@ -2,10 +2,10 @@
 Solutions for assignments and project of ml course at Sharif university of Technology (CE-477)
 
 # Table of Contents
-1. [Heart_Disease_Prediction](#Heart_Disease_Prediction)
-2. [MLE_MAP](#MLE_MAP)
-3. [Polynomial_Regression](#Polynomial_Regression)
-4. [Regularization](#Regularization)
+> [Heart_Disease_Prediction](#Heart_Disease_Prediction)
+> [MLE_MAP](#MLE_MAP)
+> [Polynomial_Regression](#Polynomial_Regression)
+> [Regularization](#Regularization)
 
    
 * ## ***Heart_Disease_Prediction***
