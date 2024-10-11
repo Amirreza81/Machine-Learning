@@ -7,7 +7,7 @@ Solutions for assignments and project of ml course at Sharif university of Techn
 > - [Polynomial_Regression](#Polynomial Regression)
 > - [Regularization](#Regularization)
 > - [KMeans](#KMeans)
-> - [Classification using PyTorch](#Classification using PyTorch)
+> - [Classification using PyTorch](#Bank Marketing Classification using PyTorch)
 
    
 * ## ***Heart_Disease_Prediction***
@@ -78,3 +78,23 @@ Solutions for assignments and project of ml course at Sharif university of Techn
     - **Elbow Method**: Optimal number of clusters is suggested as 3 or 4.
     - **Silhouette Method**: Optimal number of clusters is 2 based on the highest silhouette scores.
     - Silhouette method is preferred due to its deterministic nature and higher precision.
+
+* ## Bank Marketing Classification using PyTorch
+
+    This notebook is focused on performing a classification task on a bank marketing dataset using PyTorch. Below is a summary of the key steps and components of the notebook.
+
+    ### 1. Importing Libraries
+    The following libraries are used for data manipulation, machine learning, and neural network construction:
+    - **PyTorch**: `torch`, `torch.nn`, `torch.optim`
+    - **Data Processing**: `pandas`, `numpy`, `sklearn`
+    - **Visualization**: `matplotlib`
+    - **Data Handling**: `TensorDataset`, `DataLoader`
+
+    ### 2. Loading and Preprocessing the Data
+    ### Dataset
+    The dataset used is the **Bank Marketing Dataset**, which is loaded from a CSV file. It contains various features that describe customer information and whether they subscribed to a bank product.
+
+    ### Steps:
+    - **Train-Test Split**: The data is split into train, validation, and test sets using `train_test_split` from `sklearn`.
+    - **Feature Scaling**: Continuous variables such as age, balance, and duration are normalized using `StandardScaler`.
+    - **Encoding Categorical Variables**: One-hot encoding is applied to categorical features (job, marital status, etc.) using `pandas.get_dummies`, and the target label (`y`) is encoded using `LabelEncoder`.
