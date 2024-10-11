@@ -79,6 +79,8 @@ Solutions for assignments and project of ml course at Sharif university of Techn
     - **Silhouette Method**: Optimal number of clusters is 2 based on the highest silhouette scores.
     - Silhouette method is preferred due to its deterministic nature and higher precision.
 
+    For reading the notebook you can see this [link](https://github.com/Amirreza81/Machine-Learning/blob/main/KMeans/kmeans.ipynb).
+
 * ## Bank Marketing Classification using PyTorch
 
     This notebook is focused on performing a classification task on a bank marketing dataset using PyTorch. Below is a summary of the key steps and components of the notebook.
@@ -98,3 +100,5 @@ Solutions for assignments and project of ml course at Sharif university of Techn
     - **Train-Test Split**: The data is split into train, validation, and test sets using `train_test_split` from `sklearn`.
     - **Feature Scaling**: Continuous variables such as age, balance, and duration are normalized using `StandardScaler`.
     - **Encoding Categorical Variables**: One-hot encoding is applied to categorical features (job, marital status, etc.) using `pandas.get_dummies`, and the target label (`y`) is encoded using `LabelEncoder`.
+
+    For reading the notebook you can see this [link](https://github.com/Amirreza81/Machine-Learning/blob/main/Classification%20using%20PyTorch/ML_HW4_Answer.ipynb).
