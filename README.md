@@ -2,11 +2,12 @@
 Solutions for assignments and project of ml course at Sharif university of Technology (CE-477)
 
 # Table of Contents
-> - [Heart_Disease_Prediction](#Heart_Disease_Prediction)
+> - [Heart_Disease_Prediction](#Heart Disease Prediction)
 > - [MLE_MAP](#MLE_MAP)
-> - [Polynomial_Regression](#Polynomial_Regression)
+> - [Polynomial_Regression](#Polynomial Regression)
 > - [Regularization](#Regularization)
 > - [KMeans](#KMeans)
+> - [Classification using PyTorch](#Classification using PyTorch)
 
    
 * ## ***Heart_Disease_Prediction***
@@ -69,11 +70,11 @@ Solutions for assignments and project of ml course at Sharif university of Techn
 
     This notebook applies KMeans clustering on a dataset using both **Elbow Method** and **Silhouette Method** to determine the optimal number of clusters. The project compares the performance of a custom KMeans implementation with the one from Sklearn.
 
-    ### Methods
+    Methods:
     > * **Elbow Method**: Focuses on minimizing WCSS (within-cluster sum of squares) to identify the point where adding more clusters doesn't significantly improve results.
     > * **Silhouette Method**: Evaluates cluster quality by measuring how well points fit within their own cluster vs. other clusters. A higher silhouette score indicates better-defined clusters.
 
-    ### Results
+    Results:
     - **Elbow Method**: Optimal number of clusters is suggested as 3 or 4.
     - **Silhouette Method**: Optimal number of clusters is 2 based on the highest silhouette scores.
     - Silhouette method is preferred due to its deterministic nature and higher precision.
