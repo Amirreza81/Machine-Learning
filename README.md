@@ -2,15 +2,15 @@
 Solutions for assignments and project of ml course at Sharif university of Technology (CE-477)
 
 # Table of Contents
-> - [Heart_Disease_Prediction](#Heart Disease Prediction)
+> - [Heart_Disease_Prediction](#Heart_Disease_Prediction)
 > - [MLE_MAP](#MLE_MAP)
-> - [Polynomial_Regression](#Polynomial Regression)
+> - [Polynomial_Regression](#Polynomial_Regression)
 > - [Regularization](#Regularization)
 > - [KMeans](#KMeans)
-> - [Classification using PyTorch](#Bank Marketing Classification using PyTorch)
+> - [Classification using PyTorch](#Bank_Marketing_Classification_using_PyTorch)
 
    
-* # ***Heart Disease Prediction***
+* # ***Heart_Disease_Prediction***
     In this assignment, I worked on [*Heart_Disease*](https://www.kaggle.com/johnsmith88/heart-disease-dataset) dataset.
     Topics I used:
     > * EDA
@@ -33,7 +33,7 @@ Solutions for assignments and project of ml course at Sharif university of Techn
     For reading the notebook you can see this [link](https://github.com/Amirreza81/Machine-Learning/blob/main/MLE-MAP/MLE_MAP.ipynb).
 
 
-* # ***Polynomial Regression***
+* # ***Polynomial_Regression***
   This exercise explores polynomial regression, a form of regression analysis where the relationship
   between the independent variable ( X ) and the dependent variable ( y ) is modeled as an ( n )th
   degree polynomial. We will create a synthetic dataset, train models with varying degrees of
@@ -81,7 +81,7 @@ Solutions for assignments and project of ml course at Sharif university of Techn
 
     For reading the notebook you can see this [link](https://github.com/Amirreza81/Machine-Learning/blob/main/KMeans/kmeans.ipynb).
 
-* # Bank Marketing Classification using PyTorch
+* # ***Bank_Marketing_Classification_using_PyTorch***
 
     This notebook is focused on performing a classification task on a bank marketing dataset using PyTorch. Below is a summary of the key steps and components of the notebook.
 
