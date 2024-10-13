@@ -8,6 +8,7 @@ Solutions for assignments and project of ml course at Sharif university of Techn
 > - [Regularization](#Regularization)
 > - [KMeans](#KMeans)
 > - [Classification using PyTorch](#Bank_Marketing_Classification_using_PyTorch)
+> - [Dimension Reduction](#Dimension_Reduction)
 
    
 * # ***Heart_Disease_Prediction***
@@ -102,3 +103,23 @@ Solutions for assignments and project of ml course at Sharif university of Techn
     - **Encoding Categorical Variables**: One-hot encoding is applied to categorical features (job, marital status, etc.) using `pandas.get_dummies`, and the target label (`y`) is encoded using `LabelEncoder`.
 
     For reading the notebook you can see this [link](https://github.com/Amirreza81/Machine-Learning/blob/main/Classification%20using%20PyTorch/ML_HW4_Answer.ipynb).
+
+
+* # ***Dimension Reduction Project***
+
+    This project demonstrates various techniques for dimensionality reduction applied to a dataset. The goal is to reduce the number of dimensions while preserving as much relevant information as possible. This can help in visualization and improving the performance of machine learning models.
+
+    ### Methods Used
+
+    1. **Data Preprocessing**
+    - The dataset (`nutrition.csv`) is loaded using `Pandas`.
+    - Only numeric columns are selected for analysis.
+    - Data is scaled using `StandardScaler` to normalize the feature values.
+
+    2. **Dimensionality Reduction Techniques**
+    - **PCA (Principal Component Analysis)**: This method reduces the dimensionality by transforming the original variables into a smaller set of new variables (principal components), which capture the most variance.
+    - **ICA (Independent Component Analysis)**: A technique that focuses on making the components as statistically independent as possible, useful for separating mixed signals.
+    - **t-SNE (t-distributed Stochastic Neighbor Embedding)**: A non-linear technique mainly used for the visualization of high-dimensional data. It maps multi-dimensional data to a two or three-dimensional space.
+
+    3. **Visualization**
+    - Visualizations are generated using `matplotlib` and `seaborn` to compare results and understand the structure of the data after applying each technique.
