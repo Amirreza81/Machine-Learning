@@ -123,3 +123,5 @@ Solutions for assignments and project of ml course at Sharif university of Techn
 
     3. **Visualization**
     - Visualizations are generated using `matplotlib` and `seaborn` to compare results and understand the structure of the data after applying each technique.
+
+    For reading the notebook you can see this [link](https://github.com/Amirreza81/Machine-Learning/blob/main/Dimension-Reduction/dimension_reduction.ipynb).
