@@ -105,7 +105,7 @@ Solutions for assignments and project of ml course at Sharif university of Techn
     For reading the notebook you can see this [link](https://github.com/Amirreza81/Machine-Learning/blob/main/Classification%20using%20PyTorch/ML_HW4_Answer.ipynb).
 
 
-* # ***Dimension Reduction Project***
+* # ***Dimension_Reduction***
 
     This project demonstrates various techniques for dimensionality reduction applied to a dataset. The goal is to reduce the number of dimensions while preserving as much relevant information as possible. This can help in visualization and improving the performance of machine learning models.
 
