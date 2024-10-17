@@ -111,17 +111,17 @@ Solutions for assignments and project of ml course at Sharif university of Techn
 
     ### Methods Used
 
-    1. **Data Preprocessing**
+    * **Data Preprocessing**
     - The dataset (`nutrition.csv`) is loaded using `Pandas`.
     - Only numeric columns are selected for analysis.
     - Data is scaled using `StandardScaler` to normalize the feature values.
 
-    2. **Dimensionality Reduction Techniques**
-    - **PCA (Principal Component Analysis)**: This method reduces the dimensionality by transforming the original variables into a smaller set of new variables (principal components), which capture the most variance.
+    * **Dimensionality Reduction Techniques**
+    - **PCA (Principal Component Analysis)**: This method reduces the dimensionality by transforming the original variables into a smaller set of new variables (principal components), which capture the       most variance.
     - **ICA (Independent Component Analysis)**: A technique that focuses on making the components as statistically independent as possible, useful for separating mixed signals.
-    - **t-SNE (t-distributed Stochastic Neighbor Embedding)**: A non-linear technique mainly used for the visualization of high-dimensional data. It maps multi-dimensional data to a two or three-dimensional space.
+    - **t-SNE (t-distributed Stochastic Neighbor Embedding)**: A non-linear technique mainly used for the visualization of high-dimensional data. It maps multi-dimensional data to a two or three-              dimensional space.
 
-    3. **Visualization**
+    * **Visualization**
     - Visualizations are generated using `matplotlib` and `seaborn` to compare results and understand the structure of the data after applying each technique.
 
     For reading the notebook you can see this [link](https://github.com/Amirreza81/Machine-Learning/blob/main/Dimension-Reduction/dimension_reduction.ipynb).
