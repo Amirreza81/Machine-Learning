@@ -1,5 +1,5 @@
-# Machine Learning - Sharif University of Technology
-Solutions for assignments and project of machine learning course at Sharif university of Technology (CE-477)
+# Machine Learning
+Solutions for assignments and project of machine learning course at **Sharif university of Technology** (CE-477)
 
 # Table of Contents
 > - [Heart_Disease_Prediction](#Heart_Disease_Prediction)
