@@ -10,6 +10,7 @@ Solutions for assignments and project of machine learning course at **Sharif uni
 > - [Classification using PyTorch](#Bank_Marketing_Classification_using_PyTorch)
 > - [Dimension Reduction](#Dimension_Reduction)
 > - [KNN from scratch](#KNN)
+> - [SVM](#SVM)
 
    
 * # ***Heart_Disease_Prediction***
@@ -150,3 +151,20 @@ Solutions for assignments and project of machine learning course at **Sharif uni
 
     For reading the notebook you can see this [link](https://github.com/Amirreza81/Machine-Learning/blob/main/KNN/knn-from-scratch-Answer.ipynb).
     For reading the complete README you can see [here](https://github.com/Amirreza81/Machine-Learning/blob/main/KNN/readme.md).
+
+
+* # ***SVM***
+
+    In this assignment, we implemented SVM (Support Vector Machines) for classification.
+
+    ### Steps:
+    - Data Preprocessing
+    - Model 
+    - Evaluation 
+    - Fine-tuning
+    - Multiclass SVM
+    - Different SVM Kernels:
+        - Linear Kernel
+        - Gaussian RBF Kernel
+        - Polynomial Kernel
+        - Sigmoid Kernel
