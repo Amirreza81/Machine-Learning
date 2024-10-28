@@ -141,12 +141,12 @@ Solutions for assignments and project of machine learning course at **Sharif uni
 
     ## Steps
 
-    ### 1. Import Libraries
-    ### 2. Define Distance Function (e.g., Euclidean)
-    ### 3. Implement KNN Function from Scratch
-    ### 4. Data Preparation
-    ### 5. Model Evaluation
-    ### 6. Data and Results Visualization
+    - Import Libraries
+    - Define Distance Function (e.g., Euclidean)
+    - Implement KNN Function from Scratch
+    - Data Preparation
+    - Model Evaluation
+    - Data and Results Visualization
 
 
     For reading the notebook you can see this [link](https://github.com/Amirreza81/Machine-Learning/blob/main/KNN/knn-from-scratch-Answer.ipynb).
