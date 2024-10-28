@@ -130,4 +130,19 @@ Solutions for assignments and project of machine learning course at **Sharif uni
 
 * # ***KNN***
 
+    This notebook demonstrates a complete, step-by-step implementation of the K-Nearest Neighbors (KNN) algorithm from scratch. It covers key concepts, code implementation, and model evaluation.
 
+    ## Objectives
+    - Understand the basics of the KNN algorithm.
+    - Implement the KNN algorithm without using specialized libraries.
+    - Evaluate the model's performance on test data.
+    - Visualize the data and results to understand KNN behavior.
+
+    ## Steps
+
+    ### 1. Import Libraries
+    ### 2. Define Distance Function (e.g., Euclidean)
+    ### 3. Implement KNN Function from Scratch
+    ### 4. Data Preparation
+    ### 5. Model Evaluation
+    ### 6. Data and Results Visualization
