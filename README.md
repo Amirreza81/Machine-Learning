@@ -146,3 +146,7 @@ Solutions for assignments and project of machine learning course at **Sharif uni
     ### 4. Data Preparation
     ### 5. Model Evaluation
     ### 6. Data and Results Visualization
+
+
+    For reading the notebook you can see this [link](https://github.com/Amirreza81/Machine-Learning/blob/main/KNN/knn-from-scratch-Answer.ipynb).
+    For reading the complete README you can see [here](https://github.com/Amirreza81/Machine-Learning/blob/main/KNN/readme.md).
