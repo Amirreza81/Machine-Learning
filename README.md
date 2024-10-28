@@ -155,7 +155,7 @@ Solutions for assignments and project of machine learning course at **Sharif uni
 
 * # ***SVM***
 
-    In this assignment, we implemented SVM (Support Vector Machines) for classification.
+    In this assignment, I implemented SVM (Support Vector Machines) for classification.
 
     ### Steps:
     - Data Preprocessing
@@ -168,3 +168,5 @@ Solutions for assignments and project of machine learning course at **Sharif uni
         - Gaussian RBF Kernel
         - Polynomial Kernel
         - Sigmoid Kernel
+
+    For reading the notebook you can see this [link](https://github.com/Amirreza81/Machine-Learning/blob/main/SVM/SVM.ipynb).
