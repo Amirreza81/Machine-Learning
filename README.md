@@ -9,6 +9,7 @@ Solutions for assignments and project of machine learning course at **Sharif uni
 > - [KMeans](#KMeans)
 > - [Classification using PyTorch](#Bank_Marketing_Classification_using_PyTorch)
 > - [Dimension Reduction](#Dimension_Reduction)
+> - [KNN from scratch](#KNN)
 
    
 * # ***Heart_Disease_Prediction***
@@ -125,3 +126,8 @@ Solutions for assignments and project of machine learning course at **Sharif uni
     - Visualizations are generated using `matplotlib` and `seaborn` to compare results and understand the structure of the data after applying each technique.
 
     For reading the notebook you can see this [link](https://github.com/Amirreza81/Machine-Learning/blob/main/Dimension-Reduction/dimension_reduction.ipynb).
+
+
+* # ***KNN***
+
+
